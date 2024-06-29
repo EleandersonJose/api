@@ -24,7 +24,7 @@ public class Event {
     @GeneratedValue
     private UUID id;
 
-    private String titlw;
+    private String title;
     private String description;
     private String imgUrl;
     private String eventUrl;
